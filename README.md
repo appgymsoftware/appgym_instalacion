@@ -33,4 +33,5 @@ o tambien probar estos 2
     source venv/Scripts/activate
 
 ## 5. Para salir del entorno
-    dactivate
+    ./venv/Scripts/deactivate
+    deactivate
