@@ -32,6 +32,9 @@ o tambien probar estos 2
     ./venv/Scripts/Activate.ps1
     source venv/Scripts/activate
 
+## 6. Ejecutar la aplicación
+    python main.py
+
 ## 5. Para salir del entorno
     ./venv/Scripts/deactivate
     deactivate
