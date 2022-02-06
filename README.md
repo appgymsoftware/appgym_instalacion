@@ -3,14 +3,34 @@ En este repositorio está lo que descargo en la compu para hacer la instalación
 
 Debe haber:
 
-[x] Entorno virtual.
-[ ] Instalar las dependencias.
-- [ ] Mercury
-- [x] Venus
-- [x] Earth (Orbit/Moon)
-- [x] Mars
-- [ ] Jupiter
-- [ ] Saturn
-- [ ] Uranus
-- [ ] Neptune
-- [ ] Comet Haley
+- [ ] Entorno virtual con versión de Python.
+- [ ] Instalar SQLite3.
+- [ ] Instalar mi paquete.
+- [ ] Ejecutar el programa.
+
+---
+
+# Entornos Virtuales
+Configuración y uso de entornos virtuales
+
+## 1. Instalar "virtualenv" con pip.
+    pip install virtualenv
+
+## 2. Comando para crear el entorno virtual.
+    virtualenv venv
+
+## 3. Solucionar problema "SecurityError: PSSecurityException"
+    Set-ExecutionPolicy Unrestricted -Force
+
+## 4. Activamos el entorno virtual
+Este comando si funcionó
+
+    ./venv/Scripts/activate
+
+o tambien probar estos 2
+
+    ./venv/Scripts/Activate.ps1
+    source venv/Scripts/activate
+
+## 5. Para salir del entorno
+    dactivate
