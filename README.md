@@ -26,6 +26,7 @@ Configuración y uso de entornos virtuales
 Este comando si funcionó
 
     ./venv/Scripts/activate
+    /venv/Scripts/activate.bat
 
 o tambien probar estos 2
 

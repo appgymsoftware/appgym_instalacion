@@ -1,1 +1,4 @@
 # Instalar Tkinter (parece que ya viene instalado)
+
+# Instalamos la libreria para firebase
+Pyrebase4
