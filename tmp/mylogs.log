@@ -10,3 +10,27 @@ Traceback (most recent call last):
     1/0
 ZeroDivisionError: division by zero
 ================= END_ERROR =================
+ERROR 2022-02-07 20:08:47.366077
+Traceback (most recent call last):
+  File "C:\Users\lucas\Documents\GitHub\appgymsoftware\appgym_install_guide\main.pyw", line 52, in <module>
+    import appgym_package
+ModuleNotFoundError: No module named 'appgym_package'
+================= END_ERROR =================
+ERROR 2022-02-07 20:10:26.997174
+Traceback (most recent call last):
+  File "C:\Users\lucas\Documents\GitHub\appgymsoftware\appgym_install_guide\main.pyw", line 52, in <module>
+    import appgym_package
+ModuleNotFoundError: No module named 'appgym_package'
+================= END_ERROR =================
+ERROR 2022-02-07 20:11:49.680498
+Traceback (most recent call last):
+  File "C:\Users\lucas\Documents\GitHub\appgymsoftware\appgym_install_guide\main.pyw", line 52, in <module>
+    import appgym_package
+ModuleNotFoundError: No module named 'appgym_package'
+================= END_ERROR =================
+ERROR 2022-02-07 20:31:01.807166
+Traceback (most recent call last):
+  File "C:\Users\lucas\Documents\GitHub\appgymsoftware\appgym_install_guide\main.pyw", line 57, in <module>
+    with open(USR_CONFIG_PATH,"r") as json_file:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\lucas\\Documents\\GitHub\\appgymsoftware\\appgym_install_guide/user_configs.json'
+================= END_ERROR =================
